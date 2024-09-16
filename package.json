@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "homepage.js",
   "scripts": {
+    "start": "node homepage.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
